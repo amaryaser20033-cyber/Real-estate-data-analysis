@@ -1,6 +1,6 @@
 Real Estate data analysis
 
-![Dashboard](RealeEstate.png)
+![Dashboard](RealEstate.png)
 
 Project Objective :
 This project is an exploratory data analysis (EDA) of a real estate dataset covering property sales across multiple localities. The goal was to understand pricing patterns, property types, sales performance compared to estimated values, and overall market behavior over time. It is part of a Data Analyst portfolio designed to demonstrate skills in data cleaning, analysis, and visualization using Excel.
